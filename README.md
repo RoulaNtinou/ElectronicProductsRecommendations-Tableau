@@ -28,27 +28,31 @@ The Dataset used for this analysis comes from [Onyx Data](https://onyxdata.co.uk
 
 ### Data Presentation
 The Dataset has 21 columns, with 7,299 entries and 7238 reviews.
- 0   id                   7299 non-null
- 1   brand                7299 non-null
- 2   categories           7299 non-null 
- 3   colors               5280 non-null 
- 4   dateAdded            7299 non-null 
- 5   dateUpdated          7299 non-null 
- 6   dimension            6090 non-null 
- 7   manufacturer         4632 non-null 
- 8   manufacturerNumber   7299 non-null 
- 9   name                 7299 non-null 
- 10  reviews.date         7238 non-null 
- 11  reviews.dateSeen     7299 non-null 
- 12  reviews.doRecommend  5908 non-null
- 13  reviews.numHelpful   5813 non-null
- 14  reviews.rating       7135 non-null
- 15  reviews.text         7294 non-null 
- 16  reviews.title        7295 non-null 
- 17  reviews.username     7299 non-null 
- 18  sourceURLs           7299 non-null 
- 19  upc                  7299 non-null
- 20  weight               7299 non-null 
+
+| Columns              | Entries            | 
+| ----------------     |:-----------------  |
+| id                   | 7299 non-null      |
+| brand                | 7299 non-null      |
+| colors               | 5280 non-null      |
+| categories           | 7299 non-null      |
+| dateAdded            | 7299 non-null      |
+| dateUpdated          | 7299 non-null      |
+| dimension            | 6090 non-null      |
+| manufacturer         | 4632 non-null      |
+| manufacturerNumber   | 7299 non-null      |
+| name                 | 7299 non-null      |
+| reviews.date         | 7238 non-null      |
+| reviews.dateSeen     | 7299 non-null      |
+| reviews.doRecommend  | 5908 non-null      |
+| reviews.numHelpful   | 5813 non-null      |
+| reviews.rating       | 7135 non-null      |
+| reviews.text         | 7294 non-null      |
+| reviews.title        | 7295 non-null      |
+| reviews.username     | 7299 non-null      |
+| sourceURLs           | 7299 non-null      |
+| upc                  | 7299 non-null      |
+| weight               | 7299 non-null      |
+ 
  
 Data Cleaning was done already.
 
