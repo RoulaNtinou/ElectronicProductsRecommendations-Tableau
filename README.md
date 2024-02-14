@@ -27,31 +27,44 @@ About:
 The Dataset used for this analysis comes from [Onyx Data](https://onyxdata.co.uk/data-dna-dataset-challenge/) and are available in the file above.
 
 ### Data Presentation
-The Dataset has 21 columns, with 7,299 reviews.
+The Dataset has 21 columns, with 7,299 entries and 7238 reviews.
+ 0   id                   7299 non-null
+ 1   brand                7299 non-null
+ 2   categories           7299 non-null 
+ 3   colors               5280 non-null 
+ 4   dateAdded            7299 non-null 
+ 5   dateUpdated          7299 non-null 
+ 6   dimension            6090 non-null 
+ 7   manufacturer         4632 non-null 
+ 8   manufacturerNumber   7299 non-null 
+ 9   name                 7299 non-null 
+ 10  reviews.date         7238 non-null 
+ 11  reviews.dateSeen     7299 non-null 
+ 12  reviews.doRecommend  5908 non-null
+ 13  reviews.numHelpful   5813 non-null
+ 14  reviews.rating       7135 non-null
+ 15  reviews.text         7294 non-null 
+ 16  reviews.title        7295 non-null 
+ 17  reviews.username     7299 non-null 
+ 18  sourceURLs           7299 non-null 
+ 19  upc                  7299 non-null
+ 20  weight               7299 non-null 
+ 
 Data Cleaning was done already.
 
 
 ### Data Analysis
 
 
-1. We will need a list of **all staff members**, including their first and last names, 
-email addresses, and the store identification number where they work. 
+1. First of all we are going to see what is the relationship between product ratings and recommendation status.
+   See the following graph.
+
+   ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
-``` sql
-Select 
-    staff_id, 
-    first_name , 
-    last_name,
-    email, 
-    store_id
-From staff;
-```
 
-| staff_id   | first_name    | last_name  |  email                        |  store_id |
-| ---------  |:-------------:| -----:     | --------------------------:   | -----:    |
-| 1          | Mick          | Hillyer    | Mike.Hillyer@sakilastaff.com  |  1        |
-| 2          | Jon           | Stephens   | Jon.Stephens@sakilastaff.com  |  2        |
+
+    
 
 
 
