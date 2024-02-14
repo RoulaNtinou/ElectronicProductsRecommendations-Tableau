@@ -1,4 +1,4 @@
-# Electronics Products Rating
+# Electronic Products Rating and Recommendations
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ About:
 
 ### Data Sourcing
 
-The Dataset used for this analysis comes from [Onyx Data]([https://onyxdata.co.uk/data-dna-dataset-challenge/]) and are available in the file above.
+The Dataset used for this analysis comes from [Onyx Data](https://onyxdata.co.uk/data-dna-dataset-challenge/) and are available in the file above.
 
 ### Data Presentation
 The Dataset has 19 tables, with 599 customers, 4581 inventory items and 1000 films.
