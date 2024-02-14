@@ -59,7 +59,7 @@ Data Cleaning was done already.
 1. First of all we are going to see what is the relationship between product ratings and recommendation status.
    See the following graph.
 
-   ![alt text]()
+   ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/0ed57382bea835e78425e1e254db6011e5db4d9e/RatingRecommendations.png)
 
 
 
