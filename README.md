@@ -1,4 +1,4 @@
-# SQL_Movies
+# Electronics Products Rating
 
 ## Table of Contents
 
@@ -10,20 +10,21 @@
 
 ### Problem Statement
 
-The purpose of this analysis is to provide data information about our 
-movie rental bussiness to a potential byer of the company.
+The purpose of this analysis is to provide information that come from Electronics Products Rating and Recommendation Data 
+about buyers' preferences and satisfaction.
 
 About:
-* Staff
-* Inventory
-* Customers
-* Investors & Board of Advisors
-* Film range and replacement cost
+* Rating levels and Recommendation Status
+* Rating over Time
+* Helpful Reviews
+* Product's Rating
+* Brand and Categories of Products Rating
+* Color preferences
 
 
 ### Data Sourcing
 
-The Dataset used for this analysis come from [MavenAnalytics](https://www.mavenanalytics.io/data-playground) and are available in the file above.
+The Dataset used for this analysis comes from [Onyx Data]([https://onyxdata.co.uk/data-dna-dataset-challenge/]) and are available in the file above.
 
 ### Data Presentation
 The Dataset has 19 tables, with 599 customers, 4581 inventory items and 1000 films.
