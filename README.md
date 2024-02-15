@@ -77,14 +77,13 @@ Data Cleaning was done already.
 2. The next graph is about review frequency and rating over time.
    See the following graph.
 
-   ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/0ed57382bea835e78425e1e254db6011e5db4d9e/RatingRecommendations.png)
+   ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/e2e8856ec1615a005fb8cc8a8d3a8f3e81784ecd/QuarterlyReviewRating.png)
 
 
-  > The relationship between the rating and the recommendation is strong.
-  > - The clients who are satisfied, recommend the product at almost 98%.
-  > - But the clients who are not satisfied, do not recommend the product at the same percentage(98%).
-  > - Finally the ones that have no strong feelings about the product,40% of them recommend it and
-   60% not.
+  > -  There is a significant decrease in the number of reviews in 2018 compared to previous years, representing a decrease in customer engagement with the products.
+  > - Despite the decrease in engagement, the majority of customers who left reviews in 2018 (approximately 90%) rated the products highly, with ratings of 4 or 5.
+  > - Conversely, a very small percentage of customers (below 10%) who left reviews in 2018 gave low ratings of 1 or 2, indicating low levels of dissatisfaction with the products.
+ 
     
 
 
