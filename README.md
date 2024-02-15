@@ -15,7 +15,7 @@ about buyers' preferences and satisfaction.
 
 About:
 * Rating levels and Recommendation Status
-* Rating over Time
+* Review Frequency and Rating over Time
 * Helpful Reviews
 * Product's Rating
 * Brand and Categories of Products Rating
@@ -74,7 +74,17 @@ Data Cleaning was done already.
 
 
 
+2. The next graph is about review frequency and rating over time.
+   See the following graph.
 
+   ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/0ed57382bea835e78425e1e254db6011e5db4d9e/RatingRecommendations.png)
+
+
+  > The relationship between the rating and the recommendation is strong.
+  > - The clients who are satisfied, recommend the product at almost 98%.
+  > - But the clients who are not satisfied, do not recommend the product at the same percentage(98%).
+  > - Finally the ones that have no strong feelings about the product,40% of them recommend it and
+   60% not.
     
 
 
