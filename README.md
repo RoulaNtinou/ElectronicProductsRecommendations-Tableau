@@ -65,12 +65,16 @@ Data Cleaning was done already.
 
    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/0ed57382bea835e78425e1e254db6011e5db4d9e/RatingRecommendations.png)
 
+  > There is a strong relationship between the rating given by customers and their likelihood to recommend the product. Here's a breakdown of the relationship:#  
+  > **Satisfied Customers (Rating 4 or 5)**:
+  > Almost 98% of satisfied customers, who rated the product highly with a 4 or 5, are likely to recommend it. This indicates a high level of satisfaction and endorsement for the 
+  > product.
 
-  > The relationship between the rating and the recommendation is strong.
-  > - The clients who are satisfied, recommend the product at almost 98%.
-  > - But the clients who are not satisfied, do not recommend the product at the same percentage(98%).
-  > - Finally the ones that have no strong feelings about the product,40% of them recommend it and
-   60% not.
+  > **Dissatisfied Customers (Rating 1 or 2)**:
+  > Conversely, almost 98% of dissatisfied customers, who rated the product poorly with a 1 or 2, are unlikely to recommend it. This suggests a strong negative sentiment towards the product among dissatisfied customers.
+  
+  > **Neutral or Mixed Feelings (Rating 3)**:
+  > Among customers who have neutral or mixed feelings about the product, approximately 40% of them still recommend it, while 60% do not. This indicates a less decisive recommendation behavior among customers with moderate satisfaction levels.
 
 
 
