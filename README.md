@@ -66,14 +66,18 @@ Data Cleaning was done already.
    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/0ed57382bea835e78425e1e254db6011e5db4d9e/RatingRecommendations.png)
 
 
-
+   The relationship between the rating and the recommendation is strong.
+   The clients who are satisfied, recommend the product at almost 98%.
+   But the clients who are not satisfied, do not recommend the product at the same percentage(98%).
+   Finally the ones that have no strong feelings about the product,40% of them recommend it and
+   60% not.
 
     
 
 
 
 
-2.	We will need separate counts of **inventory items** held at each of your two stores. 
+3.	We will need separate counts of **inventory items** held at each of your two stores. 
 ``` sql
 Select 
     store_id, 
