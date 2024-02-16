@@ -11,7 +11,7 @@
 ### Problem Statement
 
 The purpose of this analysis is to provide information that come from Electronics Products Rating and Recommendation Data 
-about buyers' preferences and satisfaction.
+about online buyers' preferences and satisfaction.
 
 About:
 * Rating levels and Recommendation Status
@@ -28,6 +28,7 @@ The Dataset used for this analysis comes from [Onyx Data](https://onyxdata.co.uk
 
 ### Data Presentation
 The Dataset has 21 columns, with 7,299 entries and 7238 reviews.
+The reviews were collected from Sep 2007 until May 2018. But since 2013 they increased significantly.
 
 | Columns              | Entries            | 
 | ----------------     |:-----------------  |
@@ -65,8 +66,10 @@ Data Cleaning was done already.
 
    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/0ed57382bea835e78425e1e254db6011e5db4d9e/RatingRecommendations.png)
 
-  > There is a strong relationship between the rating given by customers and their likelihood to recommend the product. (\)                                                          
-  > Here's a breakdown of the relationship:(#)    
+  > There is a strong relationship between the rating given by customers and their likelihood to recommend the product.                                                         
+  > Here's a breakdown of the relationship:
+  >
+  >
   > **Satisfied Customers (Rating 4 or 5)**:
   > Almost 98% of satisfied customers, who rated the product highly with a 4 or 5, are likely to recommend it. This indicates a high level of satisfaction and endorsement for the 
   > product.
@@ -87,9 +90,12 @@ Data Cleaning was done already.
    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/e2e8856ec1615a005fb8cc8a8d3a8f3e81784ecd/QuarterlyReviewRating.png)
 
 
-  > -  There is a significant decrease in the number of reviews in 2018 compared to previous years, representing a decrease in customer engagement with the products.
-  > - Despite the decrease in engagement, the majority of customers who left reviews in 2018 (approximately 90%) rated the products highly, with ratings of 4 or 5.
-  > - Conversely, a very small percentage of customers (below 10%) who left reviews in 2018 gave low ratings of 1 or 2, indicating low levels of dissatisfaction with the products.
+  > - **Decrease in Reviews** : There is a significant decrease in the number of reviews in 2018 compared to previous years, representing a decrease in customer engagement with the 
+  > products.
+  > - **High Satisfaction Levels** : Despite the decrease in engagement, the majority of customers who left reviews in 2018 (approximately 90%) rated the products highly, with ratings 
+  > of 4 or 5.
+  > - **Low Dissatisfaction Levels** : Conversely, a very small percentage of customers (below 10%) who left reviews in 2018 gave low ratings of 1 or 2, indicating low levels of 
+  > dissatisfaction with the products.
  
     
 
