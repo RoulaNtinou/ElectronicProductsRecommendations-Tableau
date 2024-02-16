@@ -84,6 +84,8 @@ Data Cleaning was done already.
 
 
 
+
+
 2. The next graph is about review frequency and rating over time.
    See the following graph.
 
@@ -103,19 +105,10 @@ Data Cleaning was done already.
 
 
 
-3.	We will need separate counts of **inventory items** held at each of your two stores. 
-``` sql
-Select 
-    store_id, 
-    count(inventory_id) As 'Inventory Items'
-From inventory
-Group by store_id
-Order by store_id;
-```
-| store_id   | Inventory Items    | 
-| ---------  |:-------------:     |
-| 1          | 2270               |
-| 2          | 2311               |
+3. The following graph depicts the relationship between the number of helpful votes on reviews and the overall rating of the product.
+
+   ![alt text]() 
+
 
 
 3.	We will need a count of **active customers** for each of your stores. Separately, please. 
