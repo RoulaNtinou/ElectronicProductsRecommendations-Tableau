@@ -77,15 +77,15 @@ Data Cleaning was done already.
   > Here's a breakdown of the relationship:
   >
   >
-  > **Satisfied Customers (Rating 4 or 5)**:
+  > - **Satisfied Customers (Rating 4 or 5)**:
   > Almost 98% of satisfied customers, who rated the product highly with a 4 or 5, are likely to recommend it. This indicates a high level of satisfaction and endorsement for the 
   > product.
   >
-  > **Dissatisfied Customers (Rating 1 or 2)**:
+  > - **Dissatisfied Customers (Rating 1 or 2)**:
   > Conversely, almost 98% of dissatisfied customers, who rated the product poorly with a 1 or 2, are unlikely to recommend it. This suggests a strong negative sentiment towards the 
   > product among dissatisfied customers.
   >
-  > **Neutral or Mixed Feelings (Rating 3)**:
+  > - **Neutral or Mixed Feelings (Rating 3)**:
   > Among customers who have neutral or mixed feelings about the product, approximately 40% of them still recommend it, while 60% do not. This indicates a less decisive recommendation 
   > behavior among customers with moderate satisfaction levels.
 
@@ -132,7 +132,8 @@ Data Cleaning was done already.
 
 
 
-4. 
+4. Products' Rating
+    ![alt text]()
 
 
 
