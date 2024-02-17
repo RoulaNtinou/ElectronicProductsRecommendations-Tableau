@@ -21,10 +21,14 @@ About:
 * Brand and Categories of Products Rating
 * Color preferences
 
+- - - -
+
 
 ### Data Sourcing
 
 The Dataset used for this analysis comes from [Onyx Data](https://onyxdata.co.uk/data-dna-dataset-challenge/) and are available in the file above.
+
+- - - -
 
 ### Data Presentation
 The Dataset has 21 columns, with 7,299 entries and 7238 reviews.
@@ -57,6 +61,7 @@ The reviews were collected from Sep 2007 until May 2018. But since 2013 they inc
  
 Data Cleaning was done already.
 
+- - - -
 
 ### Data Analysis
 
