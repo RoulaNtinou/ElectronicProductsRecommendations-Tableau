@@ -8,6 +8,8 @@
 * [Data Analysis](#data-analysis)
 * [Insights](#insights)
 
+- - - -
+
 ### Problem Statement
 
 The purpose of this analysis is to provide information that come from Electronics Products Rating and Recommendation Data 
@@ -116,7 +118,7 @@ Data Cleaning was done already.
    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/a35f88d78db92ec673af3b6eb0eda146f90b9498/HelpfulReviewPorRating.png)
    
 
-    > -**Rating 5** : Approximately 68% of helpful votes were cast for reviews with a rating of 5. This indicates that a significant portion of customers find reviews with the highest 
+    > - **Rating 5** : Approximately 68% of helpful votes were cast for reviews with a rating of 5. This indicates that a significant portion of customers find reviews with the highest 
     > rating to be helpful when making purchasing decisions.
     >
     > - **Rating 4** : Around 17% of helpful votes were cast for reviews with a rating of 4. While slightly lower than for rating 5 reviews, this still suggests that positive reviews 
