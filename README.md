@@ -166,6 +166,11 @@ Data Cleaning was done already.
    > 
    > - **Blue**: Finally, approximately 4.5% of the products are blue, indicating a lesser but still notable preference for this color.
 
+
+6. **Brands per Categories of products with Recommendations**
+
+    ![alt text]()
+
    
    
 
