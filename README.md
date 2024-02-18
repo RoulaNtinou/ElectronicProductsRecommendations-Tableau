@@ -147,10 +147,24 @@ Data Cleaning was done already.
   >   For example, the Sanus Wall Mount has a combined 3% for ratings 1 and 2, while ratings 4 and 5 make up 90% of the total ratings.
 
 
-5. **Colors Popularity**, sorting the products' colors according to reviewer's prefernces.
+5. **Colors Popularity**, sorting the products colors according to reviewer's preferences.
    See the following graph.
 
-    ![alt text]()
+    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/6564be45a73de12ad3b268e74519a65c283db4f6/Colors.png)
+
+   > It seems that black is the most preferred color among reviewers, followed by variations such as black and white, black grey red blue, multicolor, and blue.
+   > Here's a summary of the proportions:
+   > 
+   > - **Black** : Approximately 68% of the products are black, indicating a strong preference for this color among reviewers.
+   > 
+   > - **Black and White** : Around 11.21% of the products are black and white, suggesting a significant but relatively smaller preference for this combination.
+   > 
+   > - **Black Grey Red Blue**: Similarly, approximately 11.14% of the products feature a combination of black, grey, red, and blue, indicating a preference for multicolored options 
+   >   with black as a dominant color.
+   >
+   > - **Multicolor**: About 5% of the products are multicolored, suggesting a preference for diverse color options among a smaller portion of reviewers.
+   > 
+   > - **Blue**: Finally, approximately 4.5% of the products are blue, indicating a lesser but still notable preference for this color.
 
    
    
