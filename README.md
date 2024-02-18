@@ -119,17 +119,17 @@ Data Cleaning was done already.
    
 
     
-    > - **Rating 5** : Approximately 68% of helpful votes were cast for reviews with a rating of 5. This indicates that a significant portion of customers find reviews with the highest 
-    > rating to be helpful when making purchasing decisions.
+    > - **Rating 5** : Approximately 68% of helpful votes were cast for reviews with a rating of 5. This indicates that a significant portion of customers 
+    >   find reviews with the highest rating to be helpful when making purchasing decisions.
     >
-    > - **Rating 4** : Around 17% of helpful votes were cast for reviews with a rating of 4. While slightly lower than for rating 5 reviews, this still suggests that positive reviews 
-    > with a slightly lower rating are also considered helpful by customers.
+    > - **Rating 4** : Around 17% of helpful votes were cast for reviews with a rating of 4. While slightly lower than for rating 5 reviews, this still                           
+    >   suggests that positive reviews with a slightly lower rating are also considered helpful by customers.
     > 
-    > - **Rating 3** : Only 4% of helpful votes were cast for reviews with a rating of 3. This suggests that reviews with a moderate rating may be less influential in terms of receiving 
-    > helpful votes compared to higher-rated reviews.
+    > - **Rating 3** : Only 4% of helpful votes were cast for reviews with a rating of 3. This suggests that reviews with a moderate rating may be less                        
+    >   influential in terms of receiving helpful votes compared to higher-rated reviews.
     >
-    > - **Ratings 2 and 1**: Approximately 6% of helpful votes were cast for reviews with ratings of 2 or 1. This indicates that reviews with lower ratings are less likely to be 
-    > perceived as helpful by customers, possibly due to the negative sentiment associated with these ratings.
+    > - **Ratings 2 and 1**: Approximately 6% of helpful votes were cast for reviews with ratings of 2 or 1. This indicates that reviews with lower ratings                            
+    >   are less likely to be perceived as helpful by customers, possibly due to the negative sentiment associated with these ratings.
 
 
 
@@ -145,6 +145,14 @@ Data Cleaning was done already.
   > - **Products with Fewer Reviews** (e.g., Sanus Wall Mount):
   >   These products have fewer reviews but tend to have a higher proportion of positive ratings and a lower proportion of negative ratings.
   >   For example, the Sanus Wall Mount has a combined 3% for ratings 1 and 2, while ratings 4 and 5 make up 90% of the total ratings.
+
+
+5. **Colors Popularity**, sorting the products' colors according to reviewer's prefernces.
+   See the following graph.
+
+    ![alt text]()
+
+   
    
 
    
