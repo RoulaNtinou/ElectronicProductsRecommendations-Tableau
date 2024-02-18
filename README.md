@@ -169,7 +169,9 @@ Data Cleaning was done already.
 
 6. **Brands per Categories of products with Recommendations**
 
-    ![alt text]()
+    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/4bb9130e7c52cd5f2aa2679aeca325d5c0a69f59/CategoriesperBrandRecommendations.png)
+
+   
 
    
    
