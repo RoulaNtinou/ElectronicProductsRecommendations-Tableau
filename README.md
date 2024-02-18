@@ -68,7 +68,7 @@ Data Cleaning was done already.
 ### Data Analysis
 
 
-1. First of all we are going to see what is the relationship between product ratings and recommendation status.
+1. **Relationship between product ratings and recommendation status**.
    See the following graph.
 
    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/0ed57382bea835e78425e1e254db6011e5db4d9e/RatingRecommendations.png)
@@ -93,7 +93,7 @@ Data Cleaning was done already.
 
 
 
-2. We will see the review frequency and rating over time.
+ 2. **Review frequency and rating over time**.
    See the following graph.
 
    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/e2e8856ec1615a005fb8cc8a8d3a8f3e81784ecd/QuarterlyReviewRating.png)
@@ -112,12 +112,13 @@ Data Cleaning was done already.
 
 
 
-3.  It appears that there is a correlation between the rating given by customers and the likelihood of their reviews being voted as helpful./
+3.  It appears that there is a correlation between the **rating given by customers and the likelihood of their reviews being voted as helpful**.
     Here's a breakdown of the percentages of helpful votes for reviews of different ratings:
 
    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/a35f88d78db92ec673af3b6eb0eda146f90b9498/HelpfulReviewPorRating.png)
    
 
+    
     > - **Rating 5** : Approximately 68% of helpful votes were cast for reviews with a rating of 5. This indicates that a significant portion of customers find reviews with the highest 
     > rating to be helpful when making purchasing decisions.
     >
@@ -132,8 +133,21 @@ Data Cleaning was done already.
 
 
 
-4. Products' Rating
-    ![alt text]()
+4. **Products' Rating**, sorting the products with the most reviews, what we have here are **the 15 top products(based on the number of reviews)**.
+   
+    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/f9b809a36769b952d153d9636f8f317ad09d6f0b/ProductsAndRating.png)
+
+
+  > - **Products with Most Reviews** (e.g., Logitech Remote Control):
+  >   This product has a significant number of reviews, but a relatively higher proportion of negative ratings (ratings 1 and 2), with 16% combined.
+  >   Positive ratings (ratings 4 and 5) still form the majority but are comparatively lower at 73%.
+  >
+  > - **Products with Fewer Reviews** (e.g., Sanus Wall Mount):
+  >   These products have fewer reviews but tend to have a higher proportion of positive ratings and a lower proportion of negative ratings.
+  >   For example, the Sanus Wall Mount has a combined 3% for ratings 1 and 2, while ratings 4 and 5 make up 90% of the total ratings.
+   
+
+   
 
 
 
