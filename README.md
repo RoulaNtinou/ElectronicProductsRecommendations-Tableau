@@ -1,4 +1,6 @@
 # Electronic Products Rating and Recommendations
+  
+  Please see the [Tableau Dashboard](https://public.tableau.com/app/profile/sotiria.ntinou/viz/ElectronicProductsRating/Dashboard1)
 
 ## Table of Contents
 
@@ -20,8 +22,9 @@ About:
 * Review Frequency and Rating over Time
 * Helpful Reviews
 * Product's Rating
-* Brand and Categories of Products Rating
 * Color preferences
+* Brand and Categories of Products Rating
+
 
 - - - -
 
@@ -112,31 +115,22 @@ Data Cleaning was done already.
 
 
 
-3.  It appears that there is a correlation between the **rating given by customers and the likelihood of their reviews being voted as helpful**.
-    Here's a breakdown of the percentages of helpful votes for reviews of different ratings:
-
+3.  **Helpful reviews and Rating**
+   
    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/a35f88d78db92ec673af3b6eb0eda146f90b9498/HelpfulReviewPorRating.png)
+
+> It appears that there is a correlation between the rating given by customers and the likelihood of their reviews being voted as > >helpful.
+>  Here's a breakdown of the percentages of helpful votes for reviews of different ratings:
+> **Rating 5**: Approximately 68% of helpful votes were cast for reviews with a rating of 5. This indicates that a significant portion >of customers find reviews with the highest rating to be helpful when making purchasing decisions.
+> **Rating 4**: Around 17% of helpful votes were cast for reviews with a rating of 4. While slightly lower than for rating 5 reviews, this still suggests that positive reviews with a slightly lower rating are also considered helpful by customers.
+> **Rating 3**: Only 4% of helpful votes were cast for reviews with a rating of 3. This suggests that reviews with a moderate rating may >be less influential in terms of receiving helpful votes compared to higher-rated reviews.
+> **Ratings 2 and 1**: Approximately 6% of helpful votes were cast for reviews with ratings of 2 or 1. This indicates that reviews with >lower ratings are less likely to be perceived as helpful by customers, possibly due to the negative sentiment associated with these >ratings.
+
    
 
-    
-    > - **Rating 5** : Approximately 68% of helpful votes were cast for reviews with a rating of 5. This indicates that a significant 
-    >   portion of customers 
-    >   find reviews with the highest rating to be helpful when making purchasing decisions.
-    >
-    > - **Rating 4** : Around 17% of helpful votes were cast for reviews with a rating of 4. While slightly lower than for rating 5 
-    >   reviews, this still                           
-    >   suggests that positive reviews with a slightly lower rating are also considered helpful by customers.
-    > 
-    > - **Rating 3** : Only 4% of helpful votes were cast for reviews with a rating of 3. This suggests that reviews with a moderate 
-    >   rating may be less                        
-    >   influential in terms of receiving helpful votes compared to higher-rated reviews.
-    >
-    > - **Ratings 2 and 1**: Approximately 6% of helpful votes were cast for reviews with ratings of 2 or 1. This indicates that reviews     >   with lower ratings                            
-    >   are less likely to be perceived as helpful by customers, possibly due to the negative sentiment associated with these ratings.
 
 
-
-4. **Products' Rating**, sorting the products with the most reviews, what we have here are **the 15 top products(based on the number of reviews)**.
+5. **Top 15 products(based on the number of reviews) and their rating**.
    
     ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/f9b809a36769b952d153d9636f8f317ad09d6f0b/ProductsAndRating.png)
 
@@ -185,7 +179,7 @@ Data Cleaning was done already.
    >   exceeding 90% of the total recommendations. This suggests that these brands generally maintain high levels of customer > 
    >   satisfaction across all their product categories.
    
-
+- - - -
    
 
    
