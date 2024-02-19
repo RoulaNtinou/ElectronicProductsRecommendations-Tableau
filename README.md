@@ -119,16 +119,19 @@ Data Cleaning was done already.
    
 
     
-    > - **Rating 5** : Approximately 68% of helpful votes were cast for reviews with a rating of 5. This indicates that a significant portion of customers 
+    > - **Rating 5** : Approximately 68% of helpful votes were cast for reviews with a rating of 5. This indicates that a significant 
+    >   portion of customers 
     >   find reviews with the highest rating to be helpful when making purchasing decisions.
     >
-    > - **Rating 4** : Around 17% of helpful votes were cast for reviews with a rating of 4. While slightly lower than for rating 5 reviews, this still                           
+    > - **Rating 4** : Around 17% of helpful votes were cast for reviews with a rating of 4. While slightly lower than for rating 5 
+    >   reviews, this still                           
     >   suggests that positive reviews with a slightly lower rating are also considered helpful by customers.
     > 
-    > - **Rating 3** : Only 4% of helpful votes were cast for reviews with a rating of 3. This suggests that reviews with a moderate rating may be less                        
+    > - **Rating 3** : Only 4% of helpful votes were cast for reviews with a rating of 3. This suggests that reviews with a moderate 
+    >   rating may be less                        
     >   influential in terms of receiving helpful votes compared to higher-rated reviews.
     >
-    > - **Ratings 2 and 1**: Approximately 6% of helpful votes were cast for reviews with ratings of 2 or 1. This indicates that reviews with lower ratings                            
+    > - **Ratings 2 and 1**: Approximately 6% of helpful votes were cast for reviews with ratings of 2 or 1. This indicates that reviews     >   with lower ratings                            
     >   are less likely to be perceived as helpful by customers, possibly due to the negative sentiment associated with these ratings.
 
 
@@ -168,8 +171,20 @@ Data Cleaning was done already.
 
 
 6. **Brands per Categories of products with Recommendations**
+     Choose a brand to see detailed information. 
 
     ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/4bb9130e7c52cd5f2aa2679aeca325d5c0a69f59/CategoriesperBrandRecommendations.png)
+
+   > - **Top Brands Have Categories with Negative Recommendations**:
+   >   Among the top five brands sorted by the number of reviews, each brand has at least one category of products with negative 
+   >   recommendations exceeding 10% of the total recommendations. This indicates that even popular brands may have certain product 
+   >   categories that receive more negative feedback from customers.
+   >                                                                                                                                 
+   > - **Rest of the Brands Have Mostly Positive Recommendations**:
+   >   Conversely, the rest of the brands (those not in the top five) have all their product categories with positive recommendations 
+   >   exceeding 90% of the total recommendations. This suggests that these brands generally maintain high levels of customer > 
+   >   satisfaction across all their product categories.
+   
 
    
 
