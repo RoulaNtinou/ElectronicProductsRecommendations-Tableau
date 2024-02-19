@@ -97,10 +97,11 @@ Data Cleaning was done already.
 
 
  2. **Review frequency and rating over time**.
-   See the following graph.
+    See the following graph.
 
    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/e2e8856ec1615a005fb8cc8a8d3a8f3e81784ecd/QuarterlyReviewRating.png)
 
+  > There are a few key observations regarding customer engagement and satisfaction with products, particularly in 2018:
 
   > - **Decrease in Reviews** : There is a significant decrease in the number of reviews in 2018 compared to previous years, representing a decrease in customer engagement with the 
   > products.
@@ -186,64 +187,23 @@ Data Cleaning was done already.
    
 - - - -
    
-
-   
-   
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Insights
+
+
+* One factor worth mentioning that could contribute to the significant increase in reviews since 2013 is:
+  **The Rise of Online Shopping and Review Culture**: The increasing trend in online shopping and the prevalence of review platforms may 
+  have encouraged more customers to leave reviews as part of their purchasing decision-making process.
+
+* These observations suggest that while there has been **a decline in customer engagement with the products in 2018**, the overall 
+  satisfaction levels among the customers who did engage remained high
+
+* **Satisfied customers are highly likely to endorse the product**, while dissatisfied customers are unlikely to do so. Understanding and addressing the factors driving customer satisfaction can therefore have a significant impact on improving recommendations and overall customer loyalty.
+  
+
+*  These findings highlight the **importance of positive reviews**, particularly those with higher ratings, in influencing customer perceptions and receiving helpful votes from other shoppers.
+
+  
+*  Products with a larger number of reviews may also attract a wider range of opinions, including more negative feedback. On the other hand, products with fewer reviews may have a more skewed distribution towards positive ratings.
+
+  - - - -
+ 
