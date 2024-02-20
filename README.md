@@ -198,7 +198,7 @@ Data Cleaning was done already.
 * These observations suggest that while there has been **a decline in customer engagement with the products in 2018**, the overall 
   satisfaction levels among the customers who did engage remained high
 
-#### Rating-Recommendations-Helpful Reviews
+#### <ins>Rating-Recommendations-Helpful Reviews</ins>
 
 * **Satisfied customers are highly likely to endorse the product**, while dissatisfied customers are unlikely to do so. Understanding and addressing the factors driving customer satisfaction can therefore have a significant impact on improving recommendations and overall customer loyalty.
   
@@ -209,4 +209,4 @@ Data Cleaning was done already.
 *  Products with a larger number of reviews may also attract a wider range of opinions, including more negative feedback. On the other hand, products with fewer reviews may have a more skewed distribution towards positive ratings.
 
   - - - -
- 
+
