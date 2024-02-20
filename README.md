@@ -211,7 +211,7 @@ Data Cleaning was done already.
 
   - - - -
 
-  ###Recommendations
+  ### Recommendations
 
   * Engage with Customers and encourage them to leave reviews even by offering incentives.
 
