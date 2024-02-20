@@ -189,7 +189,8 @@ Data Cleaning was done already.
    
 ### Insights
 
-
+ #### Reviews Over Time
+ 
 * One factor worth mentioning that could contribute to the significant increase in reviews since 2013 is:
   **The Rise of Online Shopping and Review Culture**: The increasing trend in online shopping and the prevalence of review platforms may 
   have encouraged more customers to leave reviews as part of their purchasing decision-making process.
@@ -197,12 +198,14 @@ Data Cleaning was done already.
 * These observations suggest that while there has been **a decline in customer engagement with the products in 2018**, the overall 
   satisfaction levels among the customers who did engage remained high
 
+#### Rating-Recommendations-Helpful Reviews
+
 * **Satisfied customers are highly likely to endorse the product**, while dissatisfied customers are unlikely to do so. Understanding and addressing the factors driving customer satisfaction can therefore have a significant impact on improving recommendations and overall customer loyalty.
   
 
-*  These findings highlight the **importance of positive reviews**, particularly those with higher ratings, in influencing customer perceptions and receiving helpful votes from other shoppers.
+*  **The importance of positive reviews**, particularly those with higher ratings, in influencing customer perceptions and receiving helpful votes from other shoppers, and finally in increasing sales.
 
-  
+#### The more the Reviews the wider the range of opinions  
 *  Products with a larger number of reviews may also attract a wider range of opinions, including more negative feedback. On the other hand, products with fewer reviews may have a more skewed distribution towards positive ratings.
 
   - - - -
