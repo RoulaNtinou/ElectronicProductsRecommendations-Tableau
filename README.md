@@ -9,6 +9,7 @@
 * [Data Presentation](#data-presentation)
 * [Data Analysis](#data-analysis)
 * [Insights](#insights)
+* [Recommendations](#recommendations)
 
 - - - -
 
@@ -72,7 +73,7 @@ Data Cleaning was done already.
 
 
 1. **Relationship between product ratings and recommendation status**.
-   See the following graph.
+  
 
    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/0ed57382bea835e78425e1e254db6011e5db4d9e/RatingRecommendations.png)
 
@@ -97,12 +98,12 @@ Data Cleaning was done already.
 
 
  2. **Review frequency and rating over time**.
-    See the following graph.
 
+    
    ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/e2e8856ec1615a005fb8cc8a8d3a8f3e81784ecd/QuarterlyReviewRating.png)
 
   > There are a few key observations regarding customer engagement and satisfaction with products, particularly in 2018:
-
+  >
   > - **Decrease in Reviews** : There is a significant decrease in the number of reviews in 2018 compared to previous years, representing a decrease in customer engagement with the 
   > products.
   > - **High Satisfaction Levels** : Despite the decrease in engagement, the majority of customers who left reviews in 2018 (approximately 90%) rated the products highly, with ratings 
@@ -136,7 +137,7 @@ Data Cleaning was done already.
 
 
 
-5. **Top 15 products(based on the number of reviews) and their rating**.
+4. **Top 15 products(based on the number of reviews) and their rating**.
    
     ![alt text](https://github.com/RoulaNtinou/ElectronicProductsRecommendations-Tableau/blob/f9b809a36769b952d153d9636f8f317ad09d6f0b/ProductsAndRating.png)
 
@@ -189,7 +190,7 @@ Data Cleaning was done already.
    
 ### Insights
 
- #### Reviews Over Time
+ #### <ins>Reviews Over Time</ins>
  
 * One factor worth mentioning that could contribute to the significant increase in reviews since 2013 is:
   **The Rise of Online Shopping and Review Culture**: The increasing trend in online shopping and the prevalence of review platforms may 
@@ -205,8 +206,18 @@ Data Cleaning was done already.
 
 *  **The importance of positive reviews**, particularly those with higher ratings, in influencing customer perceptions and receiving helpful votes from other shoppers, and finally in increasing sales.
 
-#### The more the Reviews the wider the range of opinions  
+#### <ins>The more the Reviews the wider the range of opinions</ins>  
 *  Products with a larger number of reviews may also attract a wider range of opinions, including more negative feedback. On the other hand, products with fewer reviews may have a more skewed distribution towards positive ratings.
 
   - - - -
+
+  ###Recommendations
+
+  * Engage with Customers and encourage them to leave reviews even by offering incentives.
+
+  * Promote Positive Reviews: Showcase positive reviews and testimonials to build trust and credibility with potential customers. 
+    Highlighting the positive experiences of satisfied customers can help influence purchasing decisions and attract new customers.
+
+  * Use customer feedback as a valuable source of insights to continuously improve product quality and enhance the overall customer 
+    experience.
 
