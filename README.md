@@ -1,6 +1,6 @@
 # Electronic Products Rating and Recommendations
   
-  Please see the [Tableau Dashboard](https://public.tableau.com/app/profile/sotiria.ntinou/viz/ElectronicProductsRating/Dashboard1)
+  Please see the [Tableau Dashboard](https://public.tableau.com/app/profile/sotiria.ntinou/viz/ElectronicProductsRating/Story1?publish=yes)
 
 ## Table of Contents
 
